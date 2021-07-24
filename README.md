@@ -1,1 +1,1 @@
-# Hand-Gesture-Recognition-Project--1-
+# Hand-Gesture-Recognition-Project-1

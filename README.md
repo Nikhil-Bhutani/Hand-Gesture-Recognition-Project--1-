@@ -15,31 +15,30 @@ Started during my 2nd year, I made my first project based on machine learning as
 - You're all set! 
 
 ### Install Required Libraries
-
-bash
+```bash
    pip install tensorflow
-
-bash
+```
+```bash
    pip install keras
-
-bash
+```
+```bash
    pip install opencv-python
-
-bash
+```
+```bash
    pip install numpy 
-
-bash
+```
+```bash
    pip install pandas
-
-bash
+```
+```bash
    pip install keras 
-
-bash
+```
+```bash
    pip install matplotlib
-
-bash
+```
+```bash
    pip install scikit-learn
-
+```
 ## Procedure
 - First, by using Collect_Data.py we have to collect the data and build a dataset.
 - Second, by using Training_CNNModel.py we will train the CNN model on the developed dataset.
